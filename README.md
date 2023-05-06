@@ -7,12 +7,12 @@ Original sourse of data is taken from Kaggle: https://www.kaggle.com/datasets/mv
 
 ###For this data analysis I have to:
 
---Clean the data: with the help of Excel or PowerQuery I remove any duplicates, missing values, or irrelevant data.
---Import data into SQL: I used SQL Server Management Studio to create a new SQL database cost_of_living and import the cleaned data into it.
---Analyze the data using SQL. With the help of aggregation functions, partitioning, filtering, CTE and joins I analyzed the data to get the insights of cost of living in terms of basic product basket, public transport, rent and ability to buy a flat, as well as net salaries. (The SQL code is attached to the repository)
+--Clean the data: with the help of Excel or PowerQuery I remove any duplicates, missing values, or irrelevant data.<br />
+--Import data into SQL: I used SQL Server Management Studio to create a new SQL database cost_of_living and import the cleaned data into it.<br />
+--Analyze the data using SQL. With the help of aggregation functions, partitioning, filtering, CTE and joins I analyzed the data to get the insights of cost of living in terms of basic product basket, public transport, rent and ability to buy a flat, as well as net salaries. (The SQL code is attached to the repository)<br />
 --Create visualizations in Tableau: for this I imported the data from csv file with cleaned dataset into Tableau Public and created visualizations to explore the data.
 
-###After conducting a thorough analysis, I have come to some fascinating findings:
+###**After conducting a thorough analysis, I have come to some fascinating findings**:
 
 --Top countries that perform highest income are Bermuda, Switzerland, Isle Of Man, Singapore, United States with salaries from 4500$ up till 6000$net/monthwhereas in countries like Cuba and Siria net montly income is not higher than 50$.
 
