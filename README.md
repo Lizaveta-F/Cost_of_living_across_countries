@@ -18,7 +18,7 @@ Original sourse of data is taken from Kaggle: https://www.kaggle.com/datasets/mv
 
 --Average cost of rent 1bedroom apartment in the city centre with utilities and internet ranges from 145$ in Bangladesh to 3663$ in Bermuda.
 
---At the same time the percentage in net salary which each person should give for paying utilities for ~40-45m2 flat varies from 1% in Fiji to 51% in Cuba, which means
+--At the same time the percentage in net salary which each person should give for paying utilities for ~40-45m2 flat varies from 2,27% in Bermuda to 51% in Cuba, which means
 that countries with higher salaries pay less in percentage for utilities than those who earn less.
 
 --It is interesting fact that people in South Africa can save up for 2 years to buy a 40m2 flat outside the centre if they put all they monthly salary to flat savings.
