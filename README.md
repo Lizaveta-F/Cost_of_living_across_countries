@@ -15,12 +15,20 @@ Original sourse of data is taken from Kaggle: https://www.kaggle.com/datasets/mv
 ###After conducting a thorough analysis, I have come to some fascinating findings:
 
 --Top countries that perform highest income are Bermuda, Switzerland, Isle Of Man, Singapore, United States with salaries from 4500$ up till 6000$net/monthwhereas in countries like Cuba and Siria net montly income is not higher than 50$.
+
 --Average cost of rent 1bedroom apartment in the city centre with utilities and internet ranges from 145$ in Bangladesh to 3663$ in Bermuda.
+
 --At the same time the percentage in net salary which each person should give for paying utilities for ~40-45m2 flat varies from 1% in Fiji to 51% in Cuba, which means
 that countries with higher salaries pay less in percentage for utilities than those who earn less.
+
 --It is interesting fact that people in South Africa can save up for 2 years to buy a 40m2 flat outside the centre if they put all they monthly salary to flat savings.
+
 -Concerning the cost of food the best destinations for buying vegetables and fruits are Egypt and Afganistan, mostly all the countries from the north of Africa and Centre of Asia while in Somalia and Bermuda you will find the most expensive bottle of wine in the supermarket.
+
 --The cheapest fast food we can find in Afganistan and Bhutan while the most expensive is in Switzerland.
+
 --It is intriguing to find out that countries for no-smokers where the package of cigarretes costs on average around 25$ are Australia and New Zealand.
+
 --Analyzing correlation between cost of oneway public transport ticket and price for 1km on taxi: The R-squared value is 0.177291, suggesting that approximately 17.73% of the variation in the average cost of a one-way ticket can be explained by the linear relationship with the average cost of a taxi per kilometer.Overall, these results indicate that there is a significant linear relationship between the average cost of a one-way ticket for local transport and the average cost of a taxi per kilometer, with the latter influencing the predicted values of the former.
+
 ###Tableau vizz: https://public.tableau.com/app/profile/lizaveta3622/viz/Costoflivingacrosstheglobe/Story1
